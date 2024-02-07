@@ -1,0 +1,113 @@
+@media screen and (max-width: 950px) {
+  
+  .menu-section {
+    height: 200vh;
+  }
+
+  .menu-razdel-card {
+    width: 300px;
+  }
+
+}
+
+@media screen and (max-width: 800px) {
+
+  .navigation {
+    justify-content: center;
+  }
+
+  .nav {
+    margin: 0px;
+  }
+  
+  .home-text-container {
+    font-size: 45px;
+  }
+  
+  .aboutTitle {
+    font-size: 40px;
+  }
+  
+  .about-text-container {
+    width: 90%;
+    font-size: 20px;
+  }
+
+  .reviewsTitle {
+    font-size: 40px;
+  }
+
+}
+
+@media screen and (max-width: 650px) {
+
+  ul li a {
+    font-size: 25px;
+  }
+  
+  .menu-section {
+    height: 250vh;
+  }
+
+  .menu-razdel-card {
+    width: 310px;
+  }
+
+  .home-text-container {
+    font-size: 40px;
+  }
+  
+  .aboutTitle {
+    font-size: 35px;
+  }
+  
+  .reviewsTitle {
+    font-size: 35px;
+  }
+
+}
+
+@media screen and (max-width: 550px) {
+
+  ul li a {
+    font-size: 20px;
+  }
+
+  .home-text-container {
+    font-size: 35px;
+  }
+
+}
+
+@media screen and (max-width: 450px) {
+
+  .home-text-container {
+    font-size: 25px;
+  }
+
+  .aboutTitle {
+    font-size: 30px;
+  }
+
+  .reviewsTitle {
+    font-size: 30px;
+  }
+
+}
+
+@media screen and (max-width: 400px) {
+
+  ul li a {
+    font-size: 16px;
+  }
+
+  .about-section {
+    height: 115vh;
+  }
+
+  .reviewsTitle {
+    font-size: 25px;
+  }
+
+}
+
